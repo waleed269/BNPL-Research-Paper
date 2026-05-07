@@ -9,7 +9,6 @@ This repository contains the data and statistical analysis code for our final re
 * `BNPL_data_analysis.py`: Pandas and Matplotlib script to clean data and generate visualizations.
 * `BNPL_statistical_tests.py`: Scipy script running independent t-tests on shopping behaviors.
 * `BNPL_demographics_stats.py`: Scipy script running Chi-Square tests on categorical outcomes.
-* `Research_Paper.pdf`: The final compiled IEEE-format research paper.
 
 ## Execution
 All Python scripts were executed in Google Colab using Python 3.11.
